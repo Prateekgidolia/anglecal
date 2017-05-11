@@ -6,4 +6,3 @@ setup(name='angle_calculator',
       author='Prateek Gupta',
       author_email='prateek91gidolia@gmail.com',
       packages=['anglecal'])
-

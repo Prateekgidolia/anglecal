@@ -6,7 +6,7 @@ def degminsec_deg(a) :
         deg = a[0] + a[1]/60.0 + a[2]/3600.0
         return deg
     else :
-        return "Input Data Should be Tuple"
+        return "Wrong input data type. It should be Tuple (degree, Minute, second)"
 
 def degminsec_rad(a) :
     if (type(a) == tuple) :
@@ -14,4 +14,4 @@ def degminsec_rad(a) :
         rad = deg_rad(deg)
         return rad
     else :
-        return "Input Data Should be Tuple"
+        return "Wrong input data type. It should be Tuple (degree, Minute, second)"

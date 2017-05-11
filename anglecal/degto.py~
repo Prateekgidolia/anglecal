@@ -8,7 +8,7 @@ def deg_degminsec(degree):
 
 
 def deg_rad(degree) :
-    pie = 3.14159265358979
+    pie = 3.141592653589793
     deg1 = pie / 180.0
     rad = degree * deg1
     return rad

@@ -12,4 +12,3 @@ def deg_rad(degree) :
     deg1 = pie / 180.0
     rad = degree * deg1
     return rad
-

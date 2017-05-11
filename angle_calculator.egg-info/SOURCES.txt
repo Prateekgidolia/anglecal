@@ -1,0 +1,10 @@
+setup.py
+angle_calculator.egg-info/PKG-INFO
+angle_calculator.egg-info/SOURCES.txt
+angle_calculator.egg-info/dependency_links.txt
+angle_calculator.egg-info/top_level.txt
+anglecal/__init__.py
+anglecal/angleSD.py
+anglecal/degminsecto.py
+anglecal/degto.py
+anglecal/radto.py
